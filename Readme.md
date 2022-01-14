@@ -1,3 +1,2 @@
-# Hello
+# Sample file for Docker tutorial
 
-# hi
